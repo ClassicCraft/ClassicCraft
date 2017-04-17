@@ -18,7 +18,6 @@
         #wrap {display:table;height:100%}
         </style>
         <![endif]-->
-<body>        
         <script src="/game_files/modernizr.min.js"></script>
         <script>
             function recordOutboundLink(link, category, action, label, value) {
@@ -31,7 +30,6 @@
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-9482675-1']);
             _gaq.push(['_trackPageview']);
-
             (function() {
             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -68,7 +66,6 @@
         <param name="al_errorcolor" value="ff0000">
         <param name="al_prepend_host" value="true">
             </applet>
-                        
     <p>
     <center>
         The ClassicCraft launcher requires Java. Press escape to release the mouse.<br/>
@@ -110,35 +107,26 @@
                 <script src="/web/20120423185752js_/https://minecraft.net/javascripts/libs/jquery.timeago.js"></script>
         <script src="https://web-beta.archive.org/web/20120423185752js_/https://minecraft.net/javascripts/libs/sammy.js"></script>
         <script type="text/javascript">
-
             var accountServiceAddress = "https://login.minecraft.net/";
-
             var app = $.sammy('#main', function() {
-
                 this.debug = true;
-
                 this.get('/', function() {
                     var action = function(options) {var pattern = '/'; for(key in options) { pattern = pattern.replace(':'+key, options[key]); } return pattern }
                     this.partial(action());
                 });
-
                 this.get('/game', function() {
                     var action = function(options) {var pattern = '/game'; for(key in options) { pattern = pattern.replace(':'+key, options[key]); } return pattern }
                     this.partial(action());
                 });
-
                 this.get('/login', function() {
                     var action = function(options) {var pattern = '/login'; for(key in options) { pattern = pattern.replace(':'+key, options[key]); } return pattern }
                     this.partial(action());
                 });
-
                 this.get('/register', function() {
                     var action = function(options) {var pattern = '/register'; for(key in options) { pattern = pattern.replace(':'+key, options[key]); } return pattern }
                     this.partial(action());
                 });
-
             });
-
             $(document).ready(function() {
                 if ($('html').is('.history') && false) {
                     app.run(window.location.pathname);
@@ -149,12 +137,6 @@
         </script>
         <script src="/game_files/plugins.js?b=b_396"></script>
         <script src="/game_files/main.js?b=b_396"></script>
-        </body>        
-        
-        <head>
-                <script src="//www.java.com/js/deployJava.js"></script>
-        </head>
-        
         
         
 </html>
