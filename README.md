@@ -1,1 +1,2 @@
 # ClassicCraft
+ClassicCraft is a modified version of the original code used to launch classic versions of Minecraft on Mojang's website, which has been sadly removed in 2014. As these versions are incompatible with the modern Minecraft launcher, it is needed to use the original code to launch it. However, we have modified the original code found on an archived version of the Minecraft website to make it perform better. However, the game itself has not been modified.
