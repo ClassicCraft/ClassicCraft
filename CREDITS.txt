@@ -1,0 +1,11 @@
+ClassicCraft made by MisterSheeple, aka Mr. Sheep.
+Copyright © 2016-2017, MisterSheeple
+
+If you are to use ClassicCraft in one of your projects, you must credit by including the above statement.
+
+-----New Heartbeat-----
+Copyright © 2014-2015, UnknownShadow200
+All rights reserved.
+
+-----Server Connection Mod-----
+Server Code from MCR by andreja6 on minecraftforum.net
