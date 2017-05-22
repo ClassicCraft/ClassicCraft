@@ -19,6 +19,5 @@ Note: The server only works on Windows at this point in time. Mac version coming
 15. Then, there should be a new file in your minecraft_classic_server folder, server.properties.
 16. Open it with Notepad (again, google if you don't know how).
 17. Change verify-names from true to false (otherwise it will not let players join; we're working on a fix).
-
-17-1. Note: Even though the server says players can impersonate other players when this is false, that is no longer true.
-18. Okay, you're good to go! Now just click "start server.bat" to run the server!
+18. Note: Even though the server says players can impersonate other players when this is false, that is no longer true.
+19. Okay, you're good to go! Now just click "start server.bat" to run the server!
