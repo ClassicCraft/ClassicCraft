@@ -1,5 +1,5 @@
 # ClassicCraft Offline
 This section contains the source code for Offline mode.
 
-#Compile
+# Compile
 Compilation steps coming soon.
