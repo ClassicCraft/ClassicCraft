@@ -9,6 +9,6 @@ Note: The server only works on Windows at this point in time. Mac version coming
 5. Place your jar into the folder that the patcher is in.
 6. Rename the file to minecraft-server.zip.
 7. If using the Windows Explorer to rename, select Yes.
-8. Run the patcher by double-clicking on patcher.bat
+8. Run the patcher by double-clicking on Patcher.bat
 9. Follow the instructions the patcher gives you.
 10. You're all set! Now copy and paste the jar back to its old folder!
