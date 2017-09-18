@@ -1,4 +1,4 @@
-# Development of ClassicCraft has been discontinued as of September 28, 2017. Cloth, a new client developed by MisterSheeple, will be a spiritual successor to ClassicCraft. We apologize for any inconvenience this may cause.
+# Development of ClassicCraft has been discontinued as of September 28, 2017. Cloth, a new client developed by MisterSheeple, will be a spiritual successor to ClassicCraft, and will be the new focus of development from here on out. We apologize for any inconvenience this may cause.
 
 
 # ClassicCraft
